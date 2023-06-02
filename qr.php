@@ -1,0 +1,1 @@
+<div><img src="qr.png" alt="QR Code"></div>
