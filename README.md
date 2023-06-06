@@ -1,9 +1,14 @@
 #  Bot-Whatsapp_QR
  Este es un bot de WhatsApp desarrollado para facilitar la venta de zapatillas a través de mensajes en WhatsApp. El bot utiliza la biblioteca whatsapp-web.js para interactuar con la plataforma de WhatsApp.
+ 
  Se utilizo:
+ 
  -Node v18.16.0.
+ 
  -NPM v9.5.1.
+ 
  -Librería de NodeJS “whatsapp-web.js”(https://wwebjs.dev).
+ 
  ![image](https://github.com/PauL16aL/Bot-Whatsapp-QR/assets/125236522/f1518b31-ca0b-4f4b-9238-70ca8d510142)
  
  ### Utilize los siguientes comandos para instalar la librería:
